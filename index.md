@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,6 +13,10 @@
             31px 31px 61px #d51c1c;
         height: 300px;
         width: 300px;
+    }
+
+    .markdown-body h1 {
+        display: none;
     }
 </style>
 
