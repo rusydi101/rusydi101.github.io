@@ -484,7 +484,7 @@
 <body>
 
     <header id="home">
-        <h1>Muhammad Rusydi Bin Sazali</h1>
+        <h2>Muhammad Rusydi Bin Sazali</h2>
         <p>Software Developer • ERP & Cloud Engineer</p>
         <nav>
             <a href="#about">📋 About</a>
