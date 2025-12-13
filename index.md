@@ -8,6 +8,9 @@
     <meta name="description" content="Software Developer | ERP & Cloud Engineer | Security-Aware" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
     <style>
+        .markdown-body h1 {
+            display: none;
+        }
         :root {
             --bg: #0a141a;
             --card: #1c3a4a;
