@@ -159,6 +159,7 @@
         nav a:nth-child(2) { animation-delay: 0.6s; }
         nav a:nth-child(3) { animation-delay: 0.7s; }
         nav a:nth-child(4) { animation-delay: 0.8s; }
+        nav a:nth-child(5) { animation-delay: 0.9s; }
 
         nav a::before {
             content: '';
@@ -491,6 +492,7 @@
             <a href="#skills">🛠️ Skills</a>
             <a href="#projects">🚀 Projects</a>
             <a href="#contact">📧 Contact</a>
+            <a href="business.html">💼 Business</a>
         </nav>
     </header>
 
@@ -503,6 +505,7 @@
             and system integration. Experienced in building end-to-end solutions from sensor 
             integration to web dashboards and mobile applications. Currently expanding expertise 
             in cybersecurity (CEH).
+            View <a href="business.html">freelance services</a> for project-based and contract work.
         </p>
     </section>
 
