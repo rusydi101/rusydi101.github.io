@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Freelance Services | Muhammad Rusydi</title>
-    <meta name="description" content="Freelance software development — Django, React, IoT monitoring, ERPNext, cloud deployment, and system integration. Contact for a quote." />
+    <title>RSX SYSTEM SOLUTION | Freelance Services</title>
+    <meta name="description" content="RSX SYSTEM SOLUTION — Freelance Django, React, IoT monitoring, ERPNext, cloud deployment, and system integration. Contact for a quote." />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
     <style>
         .markdown-body h1 {
@@ -518,8 +518,8 @@
 <body>
 
     <header id="home">
-        <h2>Freelance &amp; Consulting</h2>
-        <p>Muhammad Rusydi Bin Sazali — Software Developer • ERP &amp; Cloud Engineer</p>
+        <h2>RSX SYSTEM SOLUTION</h2>
+        <p>Freelance &amp; Consulting • Muhammad Rusydi Bin Sazali — Software Developer • ERP &amp; Cloud Engineer</p>
         <p>Available for contract and project-based work. End-to-end delivery from sensors and APIs to web, mobile, and cloud.</p>
         <nav>
             <a href="index.html">🏠 Portfolio</a>
@@ -532,7 +532,7 @@
 
     <section id="services">
         <h2>Services</h2>
-        <p class="intro">Below are the kinds of freelance work I take on, based on 6+ years building IoT, government, and enterprise systems. Every engagement is scoped to your needs—contact me for a quote.</p>
+        <p class="intro">RSX SYSTEM SOLUTION offers the freelance services below, backed by 6+ years building IoT, government, and enterprise systems. Every engagement is scoped to your needs—contact me for a quote.</p>
         <div class="grid">
             <div class="card">
                 <h3>Custom Web Applications</h3>
@@ -681,7 +681,7 @@
     </section>
 
     <footer>
-        © 2026 Muhammad Rusydi Bin Sazali • Built for GitHub Pages
+        © 2026 RSX SYSTEM SOLUTION • Muhammad Rusydi Bin Sazali • Built for GitHub Pages
     </footer>
 
     <button class="scroll-top" id="scrollTop" aria-label="Scroll to top">↑</button>

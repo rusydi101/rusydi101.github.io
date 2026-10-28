@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Muhammad Rusydi | IT Portfolio</title>
-    <meta name="description" content="Software Developer | ERP & Cloud Engineer | Security-Aware" />
+    <title>Muhammad Rusydi | RSX SYSTEM SOLUTION</title>
+    <meta name="description" content="RSX SYSTEM SOLUTION — Software Developer | ERP & Cloud Engineer | Security-Aware" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
     <style>
         .markdown-body h1 {
@@ -87,6 +87,15 @@
             max-width: 720px;
             margin: auto;
             animation: fadeInDown 0.8s ease-out 0.4s backwards;
+        }
+
+        .company-name {
+            color: var(--accent);
+            font-weight: 600;
+            letter-spacing: 0.06em;
+            font-size: 1rem;
+            margin: 0.35rem auto 0.5rem;
+            animation: fadeInDown 0.8s ease-out 0.3s backwards;
         }
 
         @keyframes fadeInDown {
@@ -486,6 +495,7 @@
 
     <header id="home">
         <h2>Muhammad Rusydi Bin Sazali</h2>
+        <p class="company-name">RSX SYSTEM SOLUTION</p>
         <p>Software Developer • ERP & Cloud Engineer</p>
         <nav>
             <a href="#about">📋 About</a>
@@ -692,7 +702,7 @@
     </section>
 
     <footer>
-        © 2025 Muhammad Rusydi Bin Sazali • Built for GitHub Pages
+        © 2025 RSX SYSTEM SOLUTION • Muhammad Rusydi Bin Sazali • Built for GitHub Pages
     </footer>
 
     <button class="scroll-top" id="scrollTop" aria-label="Scroll to top">↑</button>
